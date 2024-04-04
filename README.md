@@ -1,6 +1,6 @@
 # Airbnb MongoDB Analysis
 ## Part 1: Data Set Details
-### The original data file exceeds 100 MB and hence cannot not be pushed to GitHub. Here is a [link](https://drive.google.com/file/d/1eUHlpqhQIlAylS1r3kZHSUWxCLqBipTr/view?usp=sharing) to the raw data file.
+### The original data file exceeds 100 MB and hence cannot be pushed to GitHub. Here is a [link](https://drive.google.com/file/d/1eUHlpqhQIlAylS1r3kZHSUWxCLqBipTr/view?usp=sharing) to the raw data file.
 The selected data set from [Inside Airbnb](https://insideairbnb.com/get-the-data/) is a comprehensive collection of individual Airbnb listings in London, United Kingdom, each encompassing a wide array of information from basic listing details to host profiles, and from booking specifics to guest reviews.
 
 The original data file was in CSV format and below are the first 20 rows (exluding field headers) of the raw data:
